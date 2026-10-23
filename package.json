@@ -1,0 +1,10 @@
+{
+  "name": "acme-internal-widget",
+  "version": "1.0",
+  "engines": {
+    "node": ">=12"
+  },
+  "dependencies": {
+    "express": "^0.10.0"
+  }
+}
